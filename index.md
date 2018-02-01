@@ -48,6 +48,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="general">General Information</h2>
 
+<p>Registration for this workshop is being handled as an ISR Short Course.
+To sign up, please use the online firm found on the following page:
+<a href =
+"http://www.isryorku.ca/what-we-do/short-courses-winter-2018/">http://www.isryorku.ca/what-we-do/short-courses-winter-2018/</a></p>
+
 {% comment %}
   INTRODUCTION
 
